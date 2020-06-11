@@ -1,2 +1,2 @@
 # docker-nest-puppeteer
-Docker for nest application with ouppeteer
+Docker for nestjs application with puppeteer
