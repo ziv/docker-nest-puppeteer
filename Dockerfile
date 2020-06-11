@@ -16,3 +16,4 @@ ENTRYPOINT ["/usr/bin/dumb-init", "--"]
 RUN npm install -g puppeteer @nestjs/cli --unsafe-perm=true --allow-root
 
 # stage 2 - app
+# FROM node_chromed
